@@ -26,7 +26,6 @@
 - [ECMAScript Daily](http://ecmascript-daily.github.io/)
 - [Ember Weekly](http://emberweekly.com/)
 - [news.vuejs](https://news.vuejs.org/)
-- [Ember Weekly](http://emberweekly.com/)
 
 
 **[⬆فهرست مطالب](#فهرست-مطالب)**
