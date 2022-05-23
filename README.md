@@ -1,6 +1,6 @@
 # منابع یادگیری فرانت‌اند
 یکی از سوال‌هایی که زیاد ازم پرسیده می‌شد و زیاد داخل شبکه‌های اجتماعی میدیدم این بوده که از چه منبعی یادگیری فرانت‌‌اند رو شروع کنیم و چه طور خودمون‌رو داخل این حوزه به‌روز نگه داریم، برای همین تصمیم گرفتم یک لیست کلی از منابعی که خودم استفاده کردم که به‌نظرم خوب و مفید هستن را جمع آوری کنم تا استفاده کنید همچنین لیستی از ابزارهایی که به یک توسعه‌دهنده فرانت‌اند کمک می‌کنه هم قرار دادم امیدوارم براتون مفید باشه (:
-<br/>
+<br/> <br/>
 راستی اگر منبع و ابزار دیگه‌ای می‌شناسید که من قرار ندادم حتما به ریپوزیتوری اضافه کنید
 
 ## فهرست-مطالب
@@ -27,8 +27,7 @@
 - [Ember Weekly](http://emberweekly.com/)
 - [news.vuejs](https://news.vuejs.org/)
 - [Ember Weekly](http://emberweekly.com/)
-- [Ember Weekly](http://emberweekly.com/)
-- [Ember Weekly](http://emberweekly.com/)
+
 
 **[⬆فهرست مطالب](#فهرست-مطالب)**
 
@@ -42,7 +41,7 @@
 - [Modern Web](http://modernweb.podbean.com/)
 - [Ember Weekend](https://emberweekend.com/episodes)
 - [React30](https://react30.com/)
-- [egghead.io Instructor Chats](https://egghead.simplecast.fm/episodes)
+- [egghead](https://egghead.simplecast.fm/episodes)
 - [The freeCodeCamp Podcast](https://freecodecamp.libsyn.com/)
 - [The React Podcast](https://changelog.com/reactpodcast)
 - [JSParty](https://changelog.com/jsparty)
