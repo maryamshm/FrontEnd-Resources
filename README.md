@@ -20,7 +20,6 @@
 - [1loc](https://1loc.dev/)
 - [Goalkicker](https://goalkicker.com/)
 - [CSS Battles](https://cssbattle.dev/)
-- [Front End Mentor](https://www.frontendmentor.io/)
 - [Codewell](https://www.codewell.cc/)
 - [Web Design Weekly](https://web-design-weekly.com/)
 - [ECMAScript Daily](http://ecmascript-daily.github.io/)
